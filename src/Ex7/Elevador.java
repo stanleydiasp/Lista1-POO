@@ -51,7 +51,8 @@ public class Elevador {
             setPessoasPresentes(getPessoasPresentes() + 1);
             System.out.println("Uma pessoa entrou");
             System.out.println("Quantidade de pessoas no elevador: " + getPessoasPresentes());
-        } else {
+        } 
+        else {
             System.out.println("O elevador está cheio. Não é possível entrar");
         }
     }
@@ -61,7 +62,8 @@ public class Elevador {
             setPessoasPresentes(getPessoasPresentes() - 1);
             System.out.println("Uma pessoa saiu do elevador");
             System.out.println("Quantidade de pessoas no elevador: " + getPessoasPresentes());
-        } else if (getPessoasPresentes() == 0) {
+        } 
+        else if (getPessoasPresentes() == 0) {
             System.out.println("O elevador está vazio");
         }
     }
@@ -70,7 +72,8 @@ public class Elevador {
         if (getAndarAtual() < getTotalDeAndares()) {
             setAndarAtual(getAndarAtual() + 1);
             System.out.println("Você subiu para o andar: " + getAndarAtual());
-        } else {
+        } 
+        else {
             System.out.println("Você já está no último andar");
         }
     }
@@ -79,7 +82,8 @@ public class Elevador {
         if (getAndarAtual() > 0) {
             setAndarAtual(getAndarAtual() - 1);
             System.out.println("Você desceu para o andar: " + getAndarAtual());
-        } else {
+        } 
+        else {
             System.out.println("Você está no térreo");
         }
     }
