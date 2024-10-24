@@ -5,7 +5,7 @@
 
 ## Exercícios:
 
-1. [Exercício 1 - Funcionário](https://github.com/stanleydiasp/Lista1-POO/blob/main/Ex1/FuncionarioTeste.java)
+1. [Exercício 1 - Funcionário](https://github.com/stanleydiasp/Lista1-POO/blob/main/src/Ex1)
 2. [Exercício 2 - Quadrado](https://github.com/stanleydiasp/Lista1-POO/blob/main/Ex2/PrincipalQuadrado.java)
 3. [Exercício 3 - Aluno](https://github.com/stanleydiasp/Lista1-POO/blob/main/Ex3/AlunoTeste.java)
 4. [Exercício 4 - Invoice](https://github.com/stanleydiasp/Lista1-POO/blob/main/Ex4/InvoiceTeste.java)
