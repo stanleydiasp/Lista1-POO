@@ -13,7 +13,7 @@
 6. [Exercício 6 - Agenda](https://github.com/stanleydiasp/Lista1-POO/blob/main/src/Ex6)
 7. [Exercício 7 - Elevador](https://github.com/stanleydiasp/Lista1-POO/blob/main/src/Ex7)
 8. [Exercício 8 - Controle Remoto](https://github.com/stanleydiasp/Lista1-POO/blob/main/src/Ex8)
-9. [Main](https://github.com/stanleydiasp/Lista1-POO/blob/main)
+9. [Main](https://github.com/stanleydiasp/Lista1-POO/blob/main/src/Main.java)
 
 Dá pra acessar todos os exercicios diretamente pelo main do projeto
 
